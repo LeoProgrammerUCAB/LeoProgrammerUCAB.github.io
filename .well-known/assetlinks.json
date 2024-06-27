@@ -3,6 +3,6 @@
     "target": {
       "namespace": "android_app",
       "package_name": "com.example.test_links",
-      "sha256_cert_fingerprints":["73:4F:C7:65:06:90:BC:44:21:23:81:19:93:42:A8:D9:04:6C:F9:3A:91:91:CB:C7:C9:35:DD:65:71:53:90:BB"]
+      "sha256_cert_fingerprints":["04:C8:75:F4:D8:0A:91:BC:A9:C5:47:FC:0B:29:6F:93:14:34:FD:9B:96:FD:AE:98:54:D3:D0:A3:3A:60:CA:AD"]
     }
   }]
