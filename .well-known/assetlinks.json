@@ -2,7 +2,7 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.example.test_links",
+      "package_name": "com.example.int_uphearts_mobile",
       "sha256_cert_fingerprints":["04:C8:75:F4:D8:0A:91:BC:A9:C5:47:FC:0B:29:6F:93:14:34:FD:9B:96:FD:AE:98:54:D3:D0:A3:3A:60:CA:AD"]
     }
   }]
